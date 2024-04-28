@@ -52,7 +52,11 @@ export default [
     brand: "Samsung",
     category: "smartphones",
     thumbnail: "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-    images: ["https://cdn.dummyjson.com/product-images/3/1.jpg"],
+    images: [
+      "https://cdn.dummyjson.com/product-images/3/1.jpg",
+      "https://cdn.dummyjson.com/product-images/3/1.jpg",
+      "https://cdn.dummyjson.com/product-images/3/1.jpg",
+    ],
   },
   {
     id: 4,

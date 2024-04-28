@@ -19,7 +19,7 @@ const ProductsList = () => {
           <div className="flex items-center justify-between">
             <img
               className="rounded-lg"
-              src={product.images[0]}
+              src={product.images[1]}
               alt=""
               width={250}
               height={250}
@@ -66,6 +66,7 @@ const ProductsList = () => {
       ))}
     </ul>
   );
+  
 };
 
 export default ProductsList;
